@@ -1,0 +1,13 @@
+C:\Users\Shweta18!\Desktop\az204\myAPP\bin\Debug\netcoreapp3.1\myAPP.exe
+C:\Users\Shweta18!\Desktop\az204\myAPP\bin\Debug\netcoreapp3.1\myAPP.deps.json
+C:\Users\Shweta18!\Desktop\az204\myAPP\bin\Debug\netcoreapp3.1\myAPP.runtimeconfig.json
+C:\Users\Shweta18!\Desktop\az204\myAPP\bin\Debug\netcoreapp3.1\myAPP.runtimeconfig.dev.json
+C:\Users\Shweta18!\Desktop\az204\myAPP\bin\Debug\netcoreapp3.1\myAPP.dll
+C:\Users\Shweta18!\Desktop\az204\myAPP\bin\Debug\netcoreapp3.1\myAPP.pdb
+C:\Users\Shweta18!\Desktop\az204\myAPP\obj\Debug\netcoreapp3.1\myAPP.csprojAssemblyReference.cache
+C:\Users\Shweta18!\Desktop\az204\myAPP\obj\Debug\netcoreapp3.1\myAPP.AssemblyInfoInputs.cache
+C:\Users\Shweta18!\Desktop\az204\myAPP\obj\Debug\netcoreapp3.1\myAPP.AssemblyInfo.cs
+C:\Users\Shweta18!\Desktop\az204\myAPP\obj\Debug\netcoreapp3.1\myAPP.csproj.CoreCompileInputs.cache
+C:\Users\Shweta18!\Desktop\az204\myAPP\obj\Debug\netcoreapp3.1\myAPP.dll
+C:\Users\Shweta18!\Desktop\az204\myAPP\obj\Debug\netcoreapp3.1\myAPP.pdb
+C:\Users\Shweta18!\Desktop\az204\myAPP\obj\Debug\netcoreapp3.1\myAPP.genruntimeconfig.cache
